@@ -1,4 +1,4 @@
-# Cranky
+<img width="1232" height="832" alt="Cranky" src="https://github.com/user-attachments/assets/a6920dff-f42b-49ad-81aa-a0e8ab0240ea" />
 
 **Author:** Quenala\
 **Version:** 2.0\
@@ -6,10 +6,8 @@
 
 A lightweight Windower 4 addon that displays the most recent Weapon Skills used, including the player name, job, WS name and damage.
 
----
 
 <img width="238" height="108" alt="image" src="https://github.com/user-attachments/assets/5eb2d935-2099-46fd-9a7b-061735c5f40d" />
-
 
 ## Features
 
@@ -28,7 +26,7 @@ A lightweight Windower 4 addon that displays the most recent Weapon Skills used,
 - Toggle individual columns on/off
 - Adjustable font size and number of rows
 
----
+
 
 ## Installation
 
