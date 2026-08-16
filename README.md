@@ -1,6 +1,4 @@
 # Cranky
-<img width="899" height="620" alt="image" src="https://github.com/user-attachments/assets/65e59cc1-9c79-4a67-b5bf-60cfb5651317" />
-
 
 **Author:** Quenala\
 **Version:** 2.0\
