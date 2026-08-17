@@ -6,19 +6,20 @@
 
 A lightweight Windower 4 addon that displays the most recent Weapon Skills used, including the player name, job, WS name and damage.
 
+<img width="259" height="106" alt="image" src="https://github.com/user-attachments/assets/10d173da-1644-4da2-bc6a-c76e85ea3fb3" />
 
-<img width="238" height="108" alt="image" src="https://github.com/user-attachments/assets/5eb2d935-2099-46fd-9a7b-061735c5f40d" />
+
 
 ## Features
 
 - Shows the last N weapon skills (configurable, default 5)
 - Displays player name + job abbreviation (when available)
 - Colour-coded damage:
-  - **Red** → under 20 000
-  - **Orange** → 20 001 – 50 000
-  - **Yellow** → 50 001 – 80 000
-  - **Teal** → over 80 000
-  - **Green** → 99999 (damage cap)
+  - **Gray** → under 20 000
+  - **Yellow** → 20 001 – 50 000
+  - **Orange** → 50 001 – 80 000
+  - **Dark Orange** → over 80 000
+  - **Red** → 99999 (damage cap)
 - Short aliases for long WS names (e.g. `Knights of Round` → `KoR`, `Tachi: Fudo` → `Fudo`, `Blade: Shun` → `Shun`)
 - Configurable column order
 - Draggable GUI (position is saved globally)
